@@ -11,5 +11,5 @@ This project aligns with the coursework and practical skills development require
 Contributions:
 Contributions and feedback are encouraged to enhance the functionality and effectiveness of the port scanner. Feel free to fork the repository and submit pull requests for improvements or new features.
 
-Thank you for taking your time to read this description. I appreciate you sincerely!!!
+
 Godwin Ifeanyi Uche
